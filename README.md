@@ -1,6 +1,6 @@
-👋 Hello World, I’m @jlesuffleur
-👀 I’m interested in Artificial Intelligence and Machine Learning in particular
-🌱 I’m currently learning Deep Learning and GPU computing
+- 👋 Hello World, I’m @jlesuffleur
+- 👀 I’m interested in Artificial Intelligence and Machine Learning in particular
+- 🌱 I’m currently learning Deep Learning and GPU computing
 
 <!---
 jlesuffleur/jlesuffleur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
